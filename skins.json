@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "Droidsareut",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "droidsareut.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "droid",
+  "localization_name": "droid"
+}
