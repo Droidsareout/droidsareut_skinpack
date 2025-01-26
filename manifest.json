@@ -2,14 +2,14 @@
     "format_version": 2,
     "header": {
         "name": "§aDroidsareut §7Skin Pack",
-        "uuid": "6246e06c-85d9-40ca-a14f-e736733194f6",
+        "uuid": "081ac973-573e-43d1-af48-88696ac7abd6",
         "version": [ 1, 0, 0 ]
     },
     "modules": [
         {
             "type": "skin_pack",
-            "uuid": "3ef8baeb-2804-4a81-8c79-715627b248af",
+            "uuid": "4509eca3-ae9d-4438-a0e5-1915e35f58b0",
             "version": [ 1, 0, 0 ]
         }
     ]
-} 
+}
